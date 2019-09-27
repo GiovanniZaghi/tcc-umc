@@ -1,0 +1,19 @@
+{
+  "Login_title": "To do List",
+  "Login_Email": "Type your Email",
+  "Login_senha": "Type your password",
+  "Login_logar": "Login",
+  "Login_Cadastrar": "Register",
+  "menuPessoa_Inicio": "Inicio",
+  "menuPessoa_desInicio": "Ir para tela Inicial",
+  "menuPessoa_alterarDados": "Alterar Dados",
+  "menuPessoa_descAlterarDados": "Editar informações",
+  "alterarDados_Email": "Email",
+  "alterarDados_PlaceHolde_Email": "Email",
+  "alterarDados_PlaceHolder_Email": "Email",
+  "alterarDados_Senha": "Senha",
+  "alterarDados_PlaceHolder_Senha": "Senha",
+  "alterarDados_Telefone": "Telefone",
+  "alterarDados_PlaceHolder_Telefone": "Telefone",
+  "alterarDados_AlterarDados": "Alterar Dados"
+}
